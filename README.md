@@ -1,7 +1,12 @@
 ## Projects
+**What's a Midfielder Anyway**
+An evaluation of various clustering approaches as applied to in-game performance data for soccer players in Europes top 5 leagues. Analysis of resulting clusters as compared to players' labeled positions and how casual fans can apply insights resulting from novel clusters.
+
+**Unemployment and Migration of Unaccompanied Minors**
+An interactive visualiztion tool to allow user to explore the correlation between unemployment data and the migration of migrant children on a per county basis in the united states.
 
 ## Experience
-**Lockheed Martin | Guidance Navigation & Control Engineer	2021-Pres**<br>
+**Lockheed Martin | GNC Engineer	2021-Pres**<br>
 <ul>Developed prediction, estimation, and classification models for missile defense applications</ul>
 <ul>Collaborated cross-functionally with software engineers on algorithm integration and deployment</ul>
 <ul>Conducted post-live fire deep dive data analysis for system performance evaluation</ul>
