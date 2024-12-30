@@ -1,5 +1,20 @@
+## Projects
+
+## Experience
+**Lockheed Martin | Guidance Navigation & Control Engineer	2021-Pres**<br>
+<ul>Developed prediction, estimation, and classification models for missile defense applications</ul>
+<ul>Collaborated cross-functionally with software engineers on algorithm integration and deployment</ul>
+<ul>Conducted post-live fire deep dive data analysis for system performance evaluation</ul>
+<ul>Presented model and algorithm development results for internal and external stakeholders</ul>
+<ul>Implemented continual process improvements to achieve greater development efficiency</ul>
+<ul>Acted as technical lead and scrum master for team of 12 engineers</ul>
+**Department of the Navy | Aerospace Engineer	2019-2021**<br>
+<ul>Generated novel performance metrics to evaluate system design against requirements</ul>
+<ul>Designed and optimized data cleaning, processing, and visualization tooling</ul>
+<ul>Performed monte-carlo simulations to verify and validate models and algorithms</ul>
+
 ## Education
-**B.S. Aerospace Engineering, University of Illinois at Urbana-Champaign**</br>
+**B.S. Aerospace Engineering, University of Illinois at Urbana-Champaign**<br>
 **M.S. Analytics, Georgia Institute of Technology**
 ### Relevant Coursework
 
