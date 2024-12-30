@@ -1,5 +1,5 @@
 ## Education
-**B.S. Aerospace Engineering, University of Illinois at Urbana-Champaign**
+**B.S. Aerospace Engineering, University of Illinois at Urbana-Champaign**</br>
 **M.S. Analytics, Georgia Institute of Technology**
 ### Relevant Coursework
 
